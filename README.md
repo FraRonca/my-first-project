@@ -5,3 +5,4 @@ my first GitHub project
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+Ciao sono Francesco
